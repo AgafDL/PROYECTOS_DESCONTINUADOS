@@ -1,53 +1,53 @@
 ADM-MANAGER-ULTIMATE
-USERS ONLINE
-USERS LOST
-YOUR SYSTEM
-WELCOME TO THE MENU!
-MANAGE USERS
-MANAGE TOOLS
-UPDATE
-REMOVE ADM-ULTIMATE
-OPTION:
-[ACTIVE]
-[ DISABLED ]
-CHANGE SYSTEM COLORS
-[BACK / EXIT]
-USERS MANAGER
-CREATE USERS
-REMOVE USERS
-MODIFY USERS
-USER DETAILS
-CHECK USERS ONLINE
-VERIFICATIONS
-YOUR CURRENTLY USED COLORS
-Choose in Order, 1 2 3 4 5 6
-What is the Color Sequence ?:
-Six Colors Not Selected!
-Applying Selected Color! ...
-CHANGE SCRIPT LANGUAGE
-ADM-ULTIMATE USER CREATOR
-New user name:
+Пользователей Online
+Пользователей не в сети
+Ваша система
+Основное меню
+Редактирование пользователей
+Редактирование инструментов
+Обновление
+Удалить ADM-ULTIMATE
+Оции:
+[Активно]
+[ Отключено ]
+Выбор системных цветов
+[Назад / Выход]
+Менеджер пользователей
+Создать пользователя
+Удалить пользователя
+Изменить пользователя
+Инфо о пользователях
+Сколько пользователей онлайн?
+Проверки
+Цвета, используемые сейчас
+Выборете в таком порядке, 1 2 3 4 5 6
+Что такое последовательность цветов ?:
+Шесть цветов не выбрано!
+Применение выбранных цветов! ...
+Выбрать язык скрипта
+ADM-ULTIMATE Создание пользователей
+Новое имя пользователя:
 Null Name
-User already exist!
-User Password
-Duration For The User
-Connection Limit for User
-User:
-Password:
-Limit:
-Shelf life:
-ALL USERS REGISTERED
-REMOVAL OF USERS
-Delete 1 User
-Delete All Users
-Choose the User, or Write the Name
-No Users Selected
-User does not exist
-Removed
-To remove
-Enter, To Return!
-USER EDITOR
-No User Selected
+Пользователь уже существует!
+Пароль пользователя
+Время жизни пользователя
+Лимит соединений для пользователя
+Пользователь:
+Пароль:
+Лимит:
+Срок годности:
+Все зарегистрированные пользователи
+Удаление пользователей
+Удалить 1 пользователя
+Удалить всех пользователей
+Выберите пользователя или введите имя
+Пользователи не выбраны
+Пользователь не существует
+Удалены
+Удалить
+Enter, чтобы вернуться!
+Редактор пользователей
+Пользователь не выбран
 What Let's Edit From:
 Number of logins for:
 Date of expiry of:
